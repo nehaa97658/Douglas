@@ -1,0 +1,17 @@
+[
+    {
+        "filter1":{"filterCateogory": "Aktionen", "filterSubcategory": "NEU"},
+        "filter2":{"filterCateogory": "Produktart", "filterSubcategory": "Parfum"},
+        "filter3":{"filterCateogory": "Für Wen", "filterSubcategory": "Männlich"}
+    },
+    {
+        "filter1":{"filterCateogory": "Aktionen", "filterSubcategory": "Limitiert"},
+        "filter2":{"filterCateogory": "Produktart", "filterSubcategory": "Parfum"},
+        "filter3":{"filterCateogory": "Für Wen", "filterSubcategory": "Weiblich"}
+    },
+    {
+        "filter1":{"filterCateogory": "Aktionen", "filterSubcategory": "Sale"},
+        "filter2":{"filterCateogory": "Produktart", "filterSubcategory": "Bodylotion"},
+        "filter3":{"filterCateogory": "Für Wen", "filterSubcategory": "Unisex"}
+    }
+]
